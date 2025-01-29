@@ -6,6 +6,8 @@ print(p1.x)
 
 
 
+
+
 #task2
 # class Person:
 #   def __init__(self, name, age):

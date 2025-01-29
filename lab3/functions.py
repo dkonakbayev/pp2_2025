@@ -8,6 +8,8 @@ myfunc(a)
 
 
 
+
+
 #task2
 # def hhh():
 #     print("Perivet")

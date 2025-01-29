@@ -5,6 +5,5 @@ class pers:
     def pri(self):
         print(self.firstname,self.lastname)
         
-        
 a = pers("Dau" , " Kon")
 a.pri()

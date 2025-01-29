@@ -5,6 +5,8 @@ lambda temp: "hot" if temp > 25 else "cool"
 
 
 
+
+
 #task2
 # x = lambda a : a + 10
 # print(x(5))
